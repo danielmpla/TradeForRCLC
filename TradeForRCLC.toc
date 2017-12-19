@@ -1,0 +1,6 @@
+## Interface: 70300
+## Title: THForRCLootCouncil
+## Author: Daxiadus
+## Version: 0.1
+
+core.lua
