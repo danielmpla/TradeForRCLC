@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 80300
 ## Title: THForRCLootCouncil
 ## Author: Daxiadus
 ## Version: 0.1
